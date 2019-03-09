@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "demo.docker.spring.boot.mvc.dockerspringbootmvc.DemoApplication",
+            "projectName": "docker-springboot-mvc"
+        }
+    ]
+}
